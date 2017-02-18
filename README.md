@@ -15,6 +15,12 @@ Acesse a pasta:
 ```
 cd comecando-com-symfony-3
 ```
+Instale as dependências utilizando o [composer](https://getcomposer.org):
+
+```
+composer install
+
+```
 
 E execute o built-in server do Symfony Console:
 
@@ -23,4 +29,6 @@ E execute o built-in server do Symfony Console:
 
 ```
 
-Acesse o link http://127.0.0.1:8000 em seu browser de preferência!
+Acesse o link http://127.0.0.1:8000 em seu browser de preferência! 
+
+Pra cima e avante!
